@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gaetano Sapia"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bochum"
+  employer         : "Max Planck Institute for Security and Privacy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gaetano.sapia@mpi-sp.org" 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
